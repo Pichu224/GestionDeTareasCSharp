@@ -58,7 +58,8 @@ Configurar la cadena de conexión a SQL Server en el archivo correspondiente.
 
 Ejecutar la aplicación desde el IDE o por consola:
 
-dotnet run
+dotnet run  
+
 🎯 Objetivo del proyecto
 El objetivo de este proyecto es consolidar conocimientos en:
 
